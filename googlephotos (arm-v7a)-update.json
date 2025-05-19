@@ -1,6 +1,6 @@
 {
-  "version": "v7.28.0.754713439 (patches: 5.23.0)",
-  "versionCode": 8,
-  "zipUrl": "https://github.com/w8stin/revanced.j-hc/releases/download/8/googlephotos-revanced-magisk-v7.28.0.754713439-arm-v7a.zip",
+  "version": "v7.29.0.757514586 (patches: 5.24.0)",
+  "versionCode": 9,
+  "zipUrl": "https://github.com/w8stin/revanced.j-hc/releases/download/9/googlephotos-revanced-magisk-v7.29.0.757514586-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/w8stin/revanced.j-hc/update/build.md"
 }
